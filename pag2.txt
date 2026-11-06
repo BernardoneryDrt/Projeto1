@@ -1,0 +1,29 @@
+﻿<html>
+   <body>
+     <h2> Imagens Favorita Bernardo:</h2> 
+  <img src="https://imgs.search.brave.com/EhWNpAePlCazi_cVsEFK6wU5Pp9RUROkgMTeCvpEITQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS1tYW5hZ2VyLm5v/dGljaWFzYW9taW51/dG8uY29tLzk2MC9u/YW9tXzU5OTU4MDJj/NWRiM2Mud2VicA">
+     <h2>Imagens Favorita Daniel:</h2>
+  <img src="https://imgs.search.brave.com/dR-VFwe7X7YMg3v3B7NuAo4IFQyeANfvUrE5-ZJxAWo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/Y21qb3JuYWwucHQv/aW1hZ2VzLzIwMTct/MDgvaW1nXzkzMng2/MjF1dTIwMTctMDgt/MTMtMjMtNTAtMDAt/NjU4NzYyLmpwZw">
+     <h2> Notícia Favorita</h2>
+  <a href="https://www.noticiasaominuto.com/pais/849130/pelintra-e-milionario-a-vida-de-rui-gaudencio-antes-da-morte-acidental"> <h3>Tragédia da embriaguês de Rui Gaundêncio</h3> </a>
+   <iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube-nocookie.com/embed/8Xcg62n7wx4" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+ <table border="1">
+    <tr>
+       <td>Carlos Cruz</td>
+       <td>67 anos</td>
+       <td>Limpa retretes</td>
+    </tr>
+ </table>
+
+  </body>
+
+</html>

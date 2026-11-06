@@ -1,0 +1,39 @@
+﻿<html>
+    <body>
+
+      <h1>Bem vindo!</h1>
+       <p>Isto é um site de treino</p>
+        <p> </p>
+<h2> Listas:</h2>
+<ol>
+  <li> Músicas favoritas Bernardo:
+    <ul>
+      <li> Pagode WBG</li>
+      <li> Calipto cerveja</li>
+    </ul>
+  </li>
+  <li> Músicas favoritas Daniel:
+    <ul>
+      <li> I wanna stay fly</li>
+      <li> 1 De abril</li>
+    </ul>
+  </li>
+</ol>
+<p> </p>
+
+<ul>
+  <li>Jogos Favoritos Daniel:
+      <ul>Rocket League</ul>
+      <ul>CSGO</ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Jogos Favoritos Bernardo:
+      <ul>Valorant</ul>
+      <ul>Rocket League</ul>
+  </li>
+</ul>
+  </body>
+
+</html>
